@@ -1,0 +1,4 @@
+#valid-amount, #valid-length {
+    display: none;
+    color: red;
+}
