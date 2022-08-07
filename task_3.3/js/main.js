@@ -287,7 +287,6 @@ class Pagination {
   }
 
   _updatePaginationElements(paginationElements, swaggerApi) {
-    // TODO: Methods;
     this._previousButtonState(paginationElements[0], swaggerApi);
 
     const lengthPaginationList = paginationElements.length;
